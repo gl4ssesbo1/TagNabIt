@@ -1,6 +1,5 @@
 # TagNabIt
 ![image](.img/tagnabit.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
