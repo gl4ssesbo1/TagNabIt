@@ -1,0 +1,7 @@
+boto3
+termcolor
+prettytable
+argparse
+tabulate
+pandas
+alive-progress
